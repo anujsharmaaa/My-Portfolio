@@ -29,7 +29,7 @@ And Also Thnakyou iNeuron For Give Us Such Like Opportunity.
 ## Live Link
 
 Live Link Netify
-https://anuj-sharna-portfolio.netlify.app/
+https://anuj-sharma-portfolio.netlify.app/
 
 
 ## Features
